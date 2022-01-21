@@ -18,12 +18,12 @@ System Testing, Regression Testing etc.
 ## WORK EXPERIENCE
 
 <div>
-       <div><span>QA Analyst</span>
+	<div><span><b>QA Analyst</b></span>
     </div>
 	<div>
-		<span>IQVIA RDS (India) Pvt Ltd</span>
+		<span><b>IQVIA RDS (India) Pvt Ltd</b></span>
 	</div>
-	<div>May 2021 - Present</div>
+	<div><b>May 2021 - Present</b></div>
  <div><br>Responsibilities :
 <div>1. Designing and create test conditions, test data, and test scripts to address business and technical use cases.</div>
 <div>2. Use existing tools and techniques to execute test cases and build/script new tools for performing testing/validation functions.</div>
@@ -36,12 +36,12 @@ System Testing, Regression Testing etc.
 </div>
 <span>&nbsp;</span>
 <div>
-       <div><span>QA Engineer</span>
+	<div><span><b>QA Engineer</b></span>
     </div>
 	<div>
-		<span>RBT Business Solutions Pvt Ltd</span>
+		<span><b>RBT Business Solutions Pvt Ltd</b></span>
 	</div>
-	<div>Dec 2018 - May 2021</div>
+	<div><b>Dec 2018 - May 2021</b></div>
  <div><br>Responsibilities :
 <div>1. Designing and create test conditions, test data, and test scripts to address business and technical use cases.</div>
 <div>2. Use existing tools and techniques to execute test cases and build/script new tools for performing testing/validation functions.</div>
@@ -56,12 +56,12 @@ System Testing, Regression Testing etc.
 <span>&nbsp;</span>
 <div>
 	<div>
-		<span>QA Engineer</span>
+		<span><b>QA Engineer</b></span>
 	</div>
 	<div>
-		<span>Ideas to Impacts Pvt. Ltd</span>
+		<span><b>Ideas to Impacts Pvt. Ltd</b></span>
 	</div>
-	<div>Jun 2017 - Dec 2018</div>
+	<div><b>Jun 2017 - Dec 2018</b></div>
     <div><br>Responsibilities :
 <div>1. Understanding of all the Baseline documents.</div>
 <div>2. Test Scenarios and Test Case preparation and Test Execution.</div>
