@@ -16,7 +16,25 @@ System Testing, Regression Testing etc.
 ---
 
 ## WORK EXPERIENCE
-     
+
+<div>
+       <div><span>QA Analyst</span>
+    </div>
+	<div>
+		<span>IQVIA RDS (India) Pvt Ltd</span>
+	</div>
+	<div>May 2021 - Present</div>
+ <div><br>Responsibilities :
+<div>1. Designing and create test conditions, test data, and test scripts to address business and technical use cases.</div>
+<div>2. Use existing tools and techniques to execute test cases and build/script new tools for performing testing/validation functions.</div>
+<div>3. Developing and leading the automation strategy/effort and generate scripts to perform automated testing cycles using Selenium &amp; Appium With JAVA.</div>
+<div>4. Interact with product management, project management, and development teams to develop a strong understanding of the project and testing objectives.</div>
+<div>5. Participation in troubleshooting and triaging of issues with different teams to drive towards root cause identification and resolution.</div>
+<div>6. Design, Execute and analyze automation test scripts &amp; test results for Web applications, iOS, Android Phone apps.</div>
+<div>7. Document, track and escalate issues as appropriate, using JIRA.</div>
+<div>8. Support during production deployment of applications and perform 'validation testing' during the off-hours maintenance windows</div></div>
+</div>
+<span>&nbsp;</span>
 <div>
        <div><span>QA Engineer</span>
     </div>
