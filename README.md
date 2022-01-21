@@ -127,7 +127,8 @@ System Testing, Regression Testing etc.
 <div>Testing Methodologies : Automation Testing</div>
 <div>Domain : Contract Management</div>
 <div>Duration : June 2017 - Dec 2018 (1.6 Years)</div>
-<div>Tools & Technologies : Selenium, C#, TFS<br></div>
+<div>Tools & Technologies : Selenium, C#, TFS</div>
+<div><span>&nbsp;</span></div>
 
 ---
 
