@@ -128,3 +128,22 @@ System Testing, Regression Testing etc.
 <div>Domain : Contract Management</div>
 <div>Duration : June 2017 - Dec 2018 (1.6 Years)</div>
 <div>Tools & Technologies : Selenium, C#, TFS</div>
+
+---
+
+## EDUCATION
+
+<div><b>Bachelor of Engineering (E&TC)</b></div> 
+<div>2017</div>
+<div>Govt. College of Engineering & Research</div>
+<div>Pune, Maharashtra</div>
+<div><span>&nbsp;</span></div>
+<div><b>HSC</b></div>
+<div>2013</div>
+<div>Maharashtra State Board
+<div>Pune, Maharashtra
+<div><span>&nbsp;</span></div>
+<div><b>SSC</b></div>
+<div>2011</div>
+<div>Maharashtra State Board</div>
+<div>Pune, Maharashtra</div>
